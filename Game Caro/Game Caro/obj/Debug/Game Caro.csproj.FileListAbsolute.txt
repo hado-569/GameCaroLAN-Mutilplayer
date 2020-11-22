@@ -1,0 +1,14 @@
+D:\Code C++,C#\code C#\Game Caro\Game Caro\bin\Debug\Game Caro.exe.config
+D:\Code C++,C#\code C#\Game Caro\Game Caro\bin\Debug\Game Caro.exe
+D:\Code C++,C#\code C#\Game Caro\Game Caro\bin\Debug\Game Caro.pdb
+D:\Code C++,C#\code C#\Game Caro\Game Caro\obj\Debug\Game_Caro.Properties.Resources.resources
+D:\Code C++,C#\code C#\Game Caro\Game Caro\obj\Debug\Game Caro.csproj.GenerateResource.cache
+D:\Code C++,C#\code C#\Game Caro\Game Caro\obj\Debug\Game Caro.csproj.CoreCompileInputs.cache
+D:\Code C++,C#\code C#\Game Caro\Game Caro\obj\Debug\Game Caro.exe
+D:\Code C++,C#\code C#\Game Caro\Game Caro\obj\Debug\Game Caro.pdb
+D:\Code C++,C#\code C#\Game Caro\Game Caro\obj\Debug\Game_Caro.CaroWithYourFrends.resources
+D:\Code C++,C#\code C#\Game Caro\Game Caro\bin\Debug\Game Caro.exe.manifest
+D:\Code C++,C#\code C#\Game Caro\Game Caro\bin\Debug\Game Caro.application
+D:\Code C++,C#\code C#\Game Caro\Game Caro\obj\Debug\Game Caro.exe.manifest
+D:\Code C++,C#\code C#\Game Caro\Game Caro\obj\Debug\Game Caro.application
+D:\Code C++,C#\code C#\Game Caro\Game Caro\obj\Debug\Game Caro.csprojAssemblyReference.cache

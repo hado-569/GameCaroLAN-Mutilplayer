@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game Caro", "Game Caro\Game Caro.csproj", "{FDC93EBB-8281-46BF-A546-BFF3BADC0926}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Test", "Test\Test.vdproj", "{3166F5F4-FC28-4A6F-B94B-B4ED568D59B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDC93EBB-8281-46BF-A546-BFF3BADC0926}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{FDC93EBB-8281-46BF-A546-BFF3BADC0926}.All|Any CPU.Build.0 = Release|Any CPU
+		{FDC93EBB-8281-46BF-A546-BFF3BADC0926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDC93EBB-8281-46BF-A546-BFF3BADC0926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDC93EBB-8281-46BF-A546-BFF3BADC0926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDC93EBB-8281-46BF-A546-BFF3BADC0926}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3166F5F4-FC28-4A6F-B94B-B4ED568D59B2}.All|Any CPU.ActiveCfg = Release
+		{3166F5F4-FC28-4A6F-B94B-B4ED568D59B2}.Debug|Any CPU.ActiveCfg = Debug
+		{3166F5F4-FC28-4A6F-B94B-B4ED568D59B2}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31C54665-5176-4FBA-97C6-E7F87C402A3E}
+	EndGlobalSection
+EndGlobal

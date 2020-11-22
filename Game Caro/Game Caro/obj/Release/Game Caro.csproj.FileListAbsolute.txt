@@ -1,0 +1,14 @@
+D:\Code C++,C#\code C#\Game Caro\Game Caro\bin\Release\Game Caro.exe.config
+D:\Code C++,C#\code C#\Game Caro\Game Caro\bin\Release\Game Caro.exe.manifest
+D:\Code C++,C#\code C#\Game Caro\Game Caro\bin\Release\Game Caro.application
+D:\Code C++,C#\code C#\Game Caro\Game Caro\bin\Release\Game Caro.exe
+D:\Code C++,C#\code C#\Game Caro\Game Caro\bin\Release\Game Caro.pdb
+D:\Code C++,C#\code C#\Game Caro\Game Caro\obj\Release\Game Caro.csprojAssemblyReference.cache
+D:\Code C++,C#\code C#\Game Caro\Game Caro\obj\Release\Game_Caro.CaroWithYourFrends.resources
+D:\Code C++,C#\code C#\Game Caro\Game Caro\obj\Release\Game_Caro.Properties.Resources.resources
+D:\Code C++,C#\code C#\Game Caro\Game Caro\obj\Release\Game Caro.csproj.GenerateResource.cache
+D:\Code C++,C#\code C#\Game Caro\Game Caro\obj\Release\Game Caro.csproj.CoreCompileInputs.cache
+D:\Code C++,C#\code C#\Game Caro\Game Caro\obj\Release\Game Caro.exe.manifest
+D:\Code C++,C#\code C#\Game Caro\Game Caro\obj\Release\Game Caro.application
+D:\Code C++,C#\code C#\Game Caro\Game Caro\obj\Release\Game Caro.exe
+D:\Code C++,C#\code C#\Game Caro\Game Caro\obj\Release\Game Caro.pdb
